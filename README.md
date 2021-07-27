@@ -1,10 +1,19 @@
 # meals
 
-Aplicativo com foco em navegação entre telas.
+Aplicativo de refeições com foco academico.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Esse projeto tem foco totalmente em aprendizado em fluter.
+
+Conceitos abordados:
+- Navegação
+- ListView
+- Separação de componentes
+- Passagem de parametros via construtor
+- Passagem de funcoes via parametros
+- Comunicação entre componentes
+- Navegação via tabs
 
 A few resources to get you started if this is your first Flutter project:
 
